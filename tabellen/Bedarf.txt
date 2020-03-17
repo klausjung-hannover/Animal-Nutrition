@@ -1,0 +1,6 @@
+Mineral	start	finish	y	Bedarf
+Na	0.5	1.5	26	0.26
+Ca	1.5	2.5	130	1.30
+P	2.5	3.5	100	1.00
+Mg	3.5	4.5	20	0.20
+Rp	5.5	6.5	55	55
