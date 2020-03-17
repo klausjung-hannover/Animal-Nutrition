@@ -19,7 +19,7 @@ These panels provide the student with background information and explanations on
 
 ### Installation
 
-Copy all folders (tabellen and www) and files (server.R and ui.R) in one folder named "Animal-Nutition" on your desktop PC or server.
+Copy all folders (tabellen and www) and files (server.R and ui.R) in one folder named "Animal-Nutrition" on your desktop PC or server.
 Make sure that the R-package Shiny and further R-packages are installed:
 ```r
 install.packages(shiny)
