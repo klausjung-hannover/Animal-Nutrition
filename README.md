@@ -42,6 +42,6 @@ The App can be run from R using the following code:
 
 ```r
 library(shiny)
-folder = "..\\Animal-Nutrition" ### specify the path on your desktop PC to the Animal-Nutrtition folder
+folder = "..\\Animal-Nutrition" ### specify the path on your desktop PC to the Animal-Nutrition folder
 runApp(folder)
 ```
