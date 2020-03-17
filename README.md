@@ -23,18 +23,18 @@ Copy all folders (tabellen and www) and files (server.R and ui.R) in one folder 
 Make sure that the R-package Shiny and further R-packages are installed:
 ```r
 install.packages(shiny)
-library(ggplot2)
-library (grid)
-library (gridExtra)
-library (gtable)
-library(RColorBrewer)  
-library (dplyr)
-library (forcats)
-library (shinythemes)
-library (shinyWidgets)
-library (shinyEffects)
-library (shinyjs)
-library (bsplus)
+install.packages(ggplot2)
+install.packages(grid)
+install.packages(gridExtra)
+install.packages(gtable)
+install.packages(RColorBrewer)  
+install.packages(dplyr)
+install.packages(forcats)
+install.packages(shinythemes)
+install.packages(shinyWidgets)
+install.packages(shinyEffects)
+install.packages(shinyjs)
+install.packages(bsplus)
 
 ```
 
